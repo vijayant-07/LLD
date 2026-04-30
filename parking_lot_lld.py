@@ -2,7 +2,6 @@ from abc import ABC, abstractmethod
 from enum import Enum
 import time
 
-
 class VehicleType(Enum):
     BIKE = 1
     CAR = 2
